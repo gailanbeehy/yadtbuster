@@ -17,7 +17,7 @@ def banner():
          +-+-+-+-+-+-+-+
          |t|b|u|s|t|e|r|
          +-+-+-+-+-+-+-+""" )
-    print("\033[31;1m         Made by prince ")
+    print("\033[31;1m         Made by Yad Omer ")
 # make a help function 
 def help():
     print("\033[35;1m Uses:")
